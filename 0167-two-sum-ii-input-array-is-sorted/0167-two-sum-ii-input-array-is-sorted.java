@@ -1,10 +1,14 @@
 class Solution {
     public int[] twoSum(int[] arr, int target) {
-        int n=arr.length;
-        for(int i=0; i<n-1; i++){
-            for(int j=i+1; j<n; j++){
-                if(arr[i]+arr[j]==target) return new int[]{i+1,j+1};
+        int right=arr.length-1;
+        int left=0;
+        while(left<right){
+            int sum=arr[left]+arr[right];
+            if(sum==target) return new int[]{left+1,right+1};
+            else if(sum>target){
+                right--;
             }
+            else left++;
         }
         return new int[]{};
     }
