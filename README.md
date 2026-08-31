@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anujcoder3480/leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/anujcoder3480/leetcode/tree/master/0202-happy-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anujcoder3480/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anujcoder3480/leetcode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anujcoder3480/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
