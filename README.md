@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anujcoder3480/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anujcoder3480/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujcoder3480/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anujcoder3480/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/anujcoder3480/leetcode/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anujcoder3480/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anujcoder3480/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anujcoder3480/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anujcoder3480/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anujcoder3480/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/anujcoder3480/leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/anujcoder3480/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/anujcoder3480/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anujcoder3480/leetcode/tree/master/0142-linked-list-cycle-ii) |
