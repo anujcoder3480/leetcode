@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anujcoder3480/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anujcoder3480/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anujcoder3480/leetcode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/anujcoder3480/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/anujcoder3480/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/anujcoder3480/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujcoder3480/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anujcoder3480/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anujcoder3480/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anujcoder3480/leetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/anujcoder3480/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/anujcoder3480/leetcode/tree/master/0203-remove-linked-list-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anujcoder3480/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
