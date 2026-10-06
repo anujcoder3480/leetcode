@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anujcoder3480/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anujcoder3480/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anujcoder3480/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/anujcoder3480/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/anujcoder3480/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/anujcoder3480/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anujcoder3480/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anujcoder3480/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anujcoder3480/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -140,4 +143,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anujcoder3480/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anujcoder3480/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
